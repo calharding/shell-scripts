@@ -1,0 +1,4 @@
+Various shell scripts for various Linux/Unix admininistrative
+purposes: backups, maintenance, etc.
+
+Mainly Bash, though other shells may feature. Hell, some Perl or Python may even creep in.
